@@ -1,0 +1,17 @@
+.text_input{
+    width: 330px;
+    padding: 8px 15px 8px 15px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-family: ProximaNova-Reg;
+    font-size: 16px;
+    line-height: 24px;
+    color: #999999;
+}
+
+.text_input:focus, .text_input:hover{
+    border: 1px solid blue;
+    outline: none;
+}
